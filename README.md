@@ -10,7 +10,7 @@ Colección de proyectos y notebooks desarrollados para competiciones de Kaggle. 
 
 ## Proyectos
 
-### [Detección de Estereotipos en Textos en Español](./spanish-text-stereotype-detection)
+### [Detección de Estereotipos en Textos en Español](./spanish-text-stereotype-detection.ipynb)
 - Solución para la competición I2C Challenge
 - Usa BERT y técnicas de aumento de datos para detectar estereotipos en español
 
