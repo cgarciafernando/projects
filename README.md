@@ -1,35 +1,40 @@
-# Portfolio de Proyectos Kaggle
-
 <div align="center">
   <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle Logo" width="150"/>
 </div>
 
-## Sobre este Repositorio
+<h1 align="center">Kaggle Projects Portfolio</h1>
 
-Colección de proyectos y notebooks desarrollados para competiciones de Kaggle. Este repositorio sirve como almacén centralizado de mis soluciones y experimentos en el campo de la ciencia de datos.
+## About This Repository
 
-## Proyectos
+This repository showcases a collection of data science projects and notebooks developed for Kaggle competitions. It serves as a centralized hub for my solutions, experiments, and learning journey in the field of data science.
 
-### [Detección de Estereotipos en Textos en Español](./spanish-text-stereotype-detection.ipynb)
-- Solución para la competición I2C Challenge
-- Usa BERT y técnicas de aumento de datos para detectar estereotipos en español
+## Projects
 
-<!-- Agregar nuevos proyectos con el siguiente formato:
-### [Nombre del Proyecto](./enlace)
-- Breve descripción
-- Características principales
+### [Stereotype Detection in Spanish Texts](./spanish-text-stereotype-detection.ipynb)
+
+- **Description:** Solution for the I2C Challenge competition.
+- **Highlights:** Employs BERT and data augmentation techniques to detect stereotypes in Spanish text.
+- **Key Techniques:** Fine-tuning BERT, Data Augmentation, Natural Language Processing
+
+<!-- Add new projects using the following format:
+### [Project Name](./link)
+- **Description:** Brief description of the project.
+- **Highlights:** Key accomplishments or findings.
+- **Key Techniques:** List the primary techniques used.
 -->
 
-## Tecnologías Utilizadas
+## Technologies Used
 
 - Python
 - PyTorch/TensorFlow
 - Transformers
-- scikit-learn
-- pandas
-- matplotlib
+- Scikit-learn
+- Pandas
+- Matplotlib
+- Seaborn
+
 ---
 
-<div align="center">
-  <p>Repositorio de proyectos Kaggle en constante actualización</p>
-</div>
+<p align="center">
+  Kaggle Project Repository - Continuously Updated
+</p>
