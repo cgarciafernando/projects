@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1280" height="681" alt="image" src="https://github.com/user-attachments/assets/89f3ffcd-7eaf-4918-958e-65697d17aeda" />
+  <img width="426" height="227" alt="image" src="https://github.com/user-attachments/assets/89f3ffcd-7eaf-4918-958e-65697d17aeda" />
 </div>
 
 <h1 align="center">Projects Portfolio</h1>
