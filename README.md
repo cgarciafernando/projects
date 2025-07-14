@@ -2,11 +2,11 @@
   <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle Logo" width="150"/>
 </div>
 
-<h1 align="center">Kaggle Projects Portfolio</h1>
+<h1 align="center">Projects Portfolio</h1>
 
 ## About This Repository
 
-This repository showcases a collection of data science projects and notebooks developed for Kaggle competitions. It serves as a centralized hub for my solutions, experiments, and learning journey in the field of data science.
+This repository showcases a collection of data science projects and notebooks that I have developed. It serves as a centralized hub for my solutions, experiments, and learning journey in the field of data science.
 
 ## Projects
 
