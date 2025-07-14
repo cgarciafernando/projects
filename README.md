@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle Logo" width="150"/>
+  [<img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle Logo" width="150"/>](https://cdn.pixabay.com/photo/2022/04/21/08/20/code-7146975_1280.png)
 </div>
 
 <h1 align="center">Projects Portfolio</h1>
